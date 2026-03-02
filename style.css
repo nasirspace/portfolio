@@ -56,7 +56,6 @@ a:hover {
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
-  font-size: 1.4rem;
 }
 
 .logo {
@@ -412,6 +411,9 @@ article .icon {
   justify-content: center;
   gap: 0.5rem;
   margin: 1rem;
+}
+.contact-info-container:hover{
+  cursor: pointer;
 }
 
 .contact-info-container p {
